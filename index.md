@@ -21,3 +21,13 @@ This is an example of HTML Boilerplate code:
   </body>
 </html>
 ```
+My task list:
+- [x] Communicate effectively on GitHub using Markdown
+- [ ] Contribute to an open-source project on GitHub
+- [ ] Manage an InnerSource program by using GitHub
+- [ ] Maintain a secure repository by using GitHub best practices
+- [ ] Introduction to GitHub administration
+- [ ] Authenticate and authorize user identitites on GitHub
+- [ ] Manage repository changes by using pull requests on GitHub
+- [ ] Search and organize repository history using GitHub
+- [ ] Using GitHub Copilot with Python
